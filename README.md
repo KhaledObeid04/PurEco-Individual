@@ -1,4 +1,5 @@
 # PurEco-Individual
+![image](https://github.com/user-attachments/assets/936b688a-da35-4fe7-8cde-d3c14e16937b)
 BINF 5900 Indvidual Assignment
 
 I am Khaled Obeid, an early-entry master’s student in Bioinformatics and the Chief Executive Officer (CEO) of PurEco, our startup project focused on developing a revolutionary air purification system utilizing genetically engineered microbes.
